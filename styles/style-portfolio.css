@@ -19,17 +19,7 @@
     
     
 }
-.btn-second{
-    height: 64px;
-   display:inline-flex;
-    background: #FD6E0A;
-    color: #FFFFFF;
-    font-weight: 700;
-    font-size: 20px;
-    border: 0;
-    padding: 18px 35px;
-    
-}
+
 
 .header {
     background: #FFF8F3;
